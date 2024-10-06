@@ -1,6 +1,7 @@
 # Hi, I'm Raissa Raffi Darmawan
 
-I am an aspiring web dev currently focusing on the front-end side because I love to build and design things!
+I am an aspiring web dev currently focusing on the front-end side. 
+I love to build and design things! 😁
 
 # Skills
 <p align="center">
