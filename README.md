@@ -2,21 +2,21 @@
 
 I am an aspiring web dev currently focusing on the front-end side because I love to build and design things!
 
-## Skills
+# Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,npm,github,git" />
   </a>
 </p>
 
-## Tools I Use
+# Tools I Use
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,figma,github,notion" />
   </a>
 </p>
 
-## Currently Learning
+# Currently Learning
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,sass,bootstrap" />
