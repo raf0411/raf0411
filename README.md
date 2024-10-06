@@ -4,6 +4,8 @@ I am an aspiring web dev currently focusing on the front-end side.
 
 I love to build and design things! 😁
 
+Always keep learning! 💪
+
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
