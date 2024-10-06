@@ -1,4 +1,4 @@
-# Hi, I'm Raissa Raffi Darmawan
+# Hi, I'm RAISSA RAFFI DARMAWAN
 
  🌐 I am an aspiring web dev currently focusing on the front-end side. 
 
