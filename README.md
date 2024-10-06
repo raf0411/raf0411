@@ -1,6 +1,6 @@
 # 👋 Hi, I'm RAISSA RAFFI DARMAWAN 👋
 
- 🌐 I am an aspiring web dev currently focusing on the front-end side. 
+ 🌐 I'm an aspiring web dev currently focusing on the front-end side. 
 
  🎓 An undergraduate majoring in Computer Science at Bina Nusantara University, Jakarta, Indonesia 🇮🇩.
  
