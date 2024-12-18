@@ -2,7 +2,7 @@
 
  🌐 I'm an aspiring web dev currently focusing on the front-end side. 
 
- 🎓 An undergraduate majoring in Computer Science at Bina Nusantara University, Jakarta, Indonesia 🇮🇩.
+ 🎓 An undergraduate majoring in Computer Science at BINUS University, Jakarta, Indonesia 🇮🇩.
  
  😁 I love to build and design minimalist stuff! 
  
