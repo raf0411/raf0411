@@ -4,7 +4,7 @@
 
  🎓 An undergraduate majoring in Computer Science at Bina Nusantara University, Jakarta, Indonesia 🇮🇩.
  
- 😁 I love to build and design things! 
+ 😁 I love to build and design minimalist stuff! 
  
  💪 Always keep learning and never give up! 
 
