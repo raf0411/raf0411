@@ -11,7 +11,7 @@
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,kotlin,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git" />
   </a>
 </p>
 
@@ -25,6 +25,6 @@
 # Currently Learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,sass,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
   </a>
 </p>
