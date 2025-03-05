@@ -11,14 +11,14 @@
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,npm,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,kotlin,git" />
   </a>
 </p>
 
 # Tools I Use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,github,notion" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,notion" />
   </a>
 </p>
 
