@@ -2,7 +2,7 @@
 
  📱 I'm an aspiring software developer currently focusing on mobile development
 
- 🎓 An undergraduate majoring in Computer Science at BINUS University, Jakarta, Indonesia 🇮🇩.
+ 🎓 An undergraduate majoring in Computer Science Indonesia 🇮🇩.
  
  😁 I love to build and design minimalist stuff! 
  
